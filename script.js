@@ -6,9 +6,9 @@ const CONFIG = {
   // Bitmoji images live in assets/. 'height' scales a host relative to the other (1 = same height).
   // Intro text is shown exactly as written (line breaks kept).
   hosts: [
-    { name: 'Devansh', image: 'assets/devansh.png', height: 1,
+    { name: 'Devansh', image: 'devansh.png', height: 1,
       intro: `Namaste sabhi ko! 🙌 I'm Devansh, your favourite Diwali party host! I absolutely love hosting house parties, and don't worry, drinks are my department! A responsible drinker and officially in charge of your drinks. Not the most photogenic person, but definitely the one who'll be bombing all your pictures! Also, I'm the guy who makes sure everyone arrives as early as possible and leaves as late as possible.` },
-    { name: 'Ishika', image: 'assets/ishika.png', height: 0.96,
+    { name: 'Ishika', image: 'ishika.png', height: 0.96,
       intro: `Namaste ji🙏🏼, I’m Ishika, your other half of the Diwali party management team! Decor aur food meri zimmedari hai. But you can also reach out to me for three very important things: chatpate gaane, chatpati gossip aur chatpate dance moves. Teeno departments mein I’m always available.
 
 Main thodi ‘apni favourite hoon’ jaisi insaan hoon. Toh thoda bahut judge bhi kar leti hoon. I know, buri aadat hai, isiliye pehle se hi maafi maang leti hoon. Thoda seh lena, guys. 😘
